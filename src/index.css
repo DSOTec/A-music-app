@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.body{
+    
+    object-fit: fill;
+    /* background-position: calc(100-80px); */
+}
